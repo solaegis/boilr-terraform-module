@@ -1,4 +1,5 @@
 ![Maintained by solaegis](https://img.shields.io/badge/maintained%20by-solaegis-blue)
 
-boilr template save ~/git/boilr-terraform-module/boilr terraform-module
-boilr template use /tmp/tf
+# Create a terraform module skeleton using boilr
+* boilr template download solaegis/boilr-terraform-module terraform-module
+* boilr template use terraform-module <module_name>

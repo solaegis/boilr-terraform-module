@@ -1,5 +1,5 @@
 {
     "Maintainer": "Priceline.com",
-    "TerraformVersion": "0.12",
+    "ModuleName": "module",
+    "TerraformVersion": "0.12"
 }
-

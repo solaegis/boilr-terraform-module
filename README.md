@@ -1,2 +1,4 @@
-![Maintained by {{Maintainer}}](https://img.shields.io/badge/maintained%20by-{{Maintainer | html}}-blue)
-![Terraform Version](https://img.shields.io/badge/tf-%3E%3D{{TerraformVersion}}-blue.svg)
+![Maintained by solaegis](https://img.shields.io/badge/maintained%20by-solaegis-blue)
+
+boilr template save ~/git/boilr-terraform-module/boilr terraform-module
+boilr template use /tmp/tf
